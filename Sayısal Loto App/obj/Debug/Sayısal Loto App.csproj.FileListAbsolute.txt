@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Sayısal Loto App\Sayısal Loto App\bin\Debug\Sayısal Loto App.exe.config
+C:\Users\mrt_b\source\repos\Sayısal Loto App\Sayısal Loto App\bin\Debug\Sayısal Loto App.exe
+C:\Users\mrt_b\source\repos\Sayısal Loto App\Sayısal Loto App\bin\Debug\Sayısal Loto App.pdb
+C:\Users\mrt_b\source\repos\Sayısal Loto App\Sayısal Loto App\obj\Debug\Sayısal Loto App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Sayısal Loto App\Sayısal Loto App\obj\Debug\Sayısal Loto App.exe
+C:\Users\mrt_b\source\repos\Sayısal Loto App\Sayısal Loto App\obj\Debug\Sayısal Loto App.pdb
+C:\Users\mrt_b\source\repos\Sayısal Loto App\Sayısal Loto App\obj\Debug\Sayısal Loto App.csprojAssemblyReference.cache
